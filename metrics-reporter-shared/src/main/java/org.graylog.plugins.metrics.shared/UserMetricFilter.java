@@ -1,18 +1,18 @@
 /**
- * This file is part of Graylog Metrics Reporter Plugin.
+ * This file is part of Graylog Metrics shared code.
  *
- * Graylog Metrics Reporter Plugin is free software: you can redistribute it and/or modify
+ * Graylog Metrics shared code is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * Graylog Metrics Reporter Plugin is distributed in the hope that it will be useful,
+ * Graylog Metrics shared code is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Graylog Metrics Reporter Plugin.  If not, see <http://www.gnu.org/licenses/>.
+ * along with Graylog Metrics shared code.  If not, see <http://www.gnu.org/licenses/>.
  */
 package org.graylog.plugins.metrics.shared;
 

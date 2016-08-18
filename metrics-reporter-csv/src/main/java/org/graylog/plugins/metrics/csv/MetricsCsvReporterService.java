@@ -1,5 +1,5 @@
 /**
- * This file is part of Graylog Metrics shared code.
+ * This file is part of Graylog Metrics CSV Reporter Plugin.
  *
  * Graylog Metrics CSV Reporter Plugin is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
