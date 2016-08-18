@@ -20,6 +20,7 @@
         <module>metrics-reporter-mongodb</module>
         <module>metrics-reporter-prometheus</module>
         <module>metrics-reporter-statsd</module>
+        <module>metrics-reporter-shared</module>
     </modules>
 
     <parent>
